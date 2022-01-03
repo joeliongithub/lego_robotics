@@ -8,3 +8,4 @@ Programming and setup ev3 for 2022 FLL
 
 Official LEGO Mindstorms Software & Materials:
 - https://www.youtube.com/watch?v=onsI9ke2Vho
+- https://youtu.be/XM1S_mpJv2k
